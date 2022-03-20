@@ -1,0 +1,20 @@
+body {
+  background: black;
+}
+
+.App {
+  padding: 60px;
+  text-align: center;
+}
+
+.crawler {
+  height: 300px !important;
+}
+
+.crawler > div {
+  min-height: 210px !important;
+}
+
+.crawler > section {
+  min-height: 210px !important;
+}
